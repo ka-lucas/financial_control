@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "user_id": 1,
+        "date": "2022-04-15",
+        "type_payment": "LUZ",
+        "value": 80.0
+    },
+    {
+        "_id": 2,
+        "user_id": 2,
+        "date": "2022-04-15",
+        "type_payment": "CONDOMINIO",
+        "value": 100.0
+    },
+    {
+        "_id": 3,
+        "user_id": 3,
+        "date": "2022-05-15",
+        "type_payment": "AGUA",
+        "value": 10.0
+    },
+    {
+        "date": "2022-04-01",
+        "type_payment": "agua",
+        "value": 90.0,
+        "_id": 2128970854,
+        "user_id": 1
+    }
+]

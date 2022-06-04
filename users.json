@@ -1,0 +1,27 @@
+[
+    {
+        "_id": 1,
+        "nome": "kdin",
+        "senha": "5478d"
+    },
+    {
+        "_id": 2,
+        "nome": "din",
+        "senha": "478d"
+    },
+    {
+        "_id": 3,
+        "nome": "in",
+        "senha": "78d"
+    },
+    {
+        "_id": 4,
+        "nome": "string",
+        "senha": "string"
+    },
+    {
+        "_id": 5,
+        "nome": "marcelin",
+        "senha": "54321"
+    }
+]
